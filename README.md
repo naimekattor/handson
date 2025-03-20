@@ -8,7 +8,7 @@ This is a full-stack web application that allows users to browse, search, and cr
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (Mongoose ODM)
 - **Authentication:** JWT (JSON Web Token)
-- **Deployment:** (e.g., Vercel for frontend, Railway/Heroku for backend)
+- **Deployment:** not yet
 
 ## 📌 Features
 - 🔐 **User Authentication:** JWT-based authentication for secure login.
